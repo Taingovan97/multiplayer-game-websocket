@@ -1,0 +1,8 @@
+**/Build
+**/.idea
+**/.vs
+**/DerivedDataCache
+**/Intermediate
+**/Packaged builds
+**/Saved
+**/Script
